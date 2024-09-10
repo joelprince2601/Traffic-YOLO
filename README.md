@@ -100,4 +100,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to adjust any sections to better match your project's specifics!
